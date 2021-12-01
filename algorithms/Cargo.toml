@@ -196,6 +196,7 @@ version = "1"
 
 [features]
 default = [
+  "cuda",
   "full",
   "parallel",
   "snarkvm-curves/default",
